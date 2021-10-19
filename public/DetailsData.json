@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "X-Ray",
+        "description": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. ... The most familiar use of x-rays is checking for fractures (broken bones), but x-rays are also used in other ways. For example, chest x-rays can spot pneumonia."
+    },
+    {
+        "id": 2,
+        "img": "http://themetechmount.com/html/delmont/images/services/01.jpg",
+        "name": "Neurology",
+        "description": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities. It has two major divisions: Central nervous system: the brain and spinal cord.."
+    },
+    {
+        "id": 3,
+        "img": "http://themetechmount.com/html/delmont/images/services/06.jpg",
+        "name": "Eye Care Services",
+        "description": "Your eyesight is one of your most important senses: 80% of what we perceive comes through our sense of sight. By protecting your eyes, you will reduce the odds of blindness and vision loss while also staying on top of any developing eye diseases such as cataracts and glaucom."
+    },
+    {
+        "id": 4,
+        "img": "https://st2.depositphotos.com/3905143/10563/i/950/depositphotos_105634758-stock-photo-doctor-holding-mental-health-sign.jpg",
+        "name": "Mental Health Services",
+        "description": "Specialist mental health services are available to treat people over the age of 65 and the elderly.These include:Aged persons mental health community teams which provide assessment and treatment, rehabilitation and case management services. Services also provide support to other aged care service providers and education for consumers, families and carersAged Persons Mental Health (APMH) nursing homes and hostels for people whose mental illness cannot be managed in mainstream aged care residential service Acute in-patienservices, which provide short-term management and mental health treatment during an acute phase of mental illness until the person can be treated in thcommunity."
+    },
+    {
+        "id": 5,
+        "img": "http://themetechmount.com/html/delmont/images/services/05.jpg",
+        "name": "CardioLogy",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine. A cardiologist is not the same as a cardiac."
+    },
+    {
+        "id": 6,
+        "img": "https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Orthopaedics Services",
+        "description": "Orthopedics is a medical specialty that deals with the treatment of bones and muscles. Orthopedic surgery is the branch of medicine concerned with diseases, injuries, and conditions of the musculoskeletal system relating to the body's muscles and skeleton. This includes the joints, ligaments, tendons, and nerves.."
+    },
+    {
+        "id": 7,
+        "img": "https://images.pexels.com/photos/1250655/pexels-photo-1250655.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": " Pathology Services",
+        "description": "Pathology is a branch of medical science that involves the study and diagnosis of disease through the examination of surgically removed organs, tissues (biopsy samples), bodily fluids, and in some cases the whole body (autopsy).."
+    },
+    {
+        "id": 8,
+        "img": "https://images.pexels.com/photos/4230620/pexels-photo-4230620.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Emergency Blood ",
+        "description": "The Transfusion Record Form of emergency released units will contain the caution that the blood is being released on an emergency basis. The physician authorizing the emergency release must sign the Emergency Request section of the Blood Bank Requisition Form and return it to the Blood Bank.."
+    }
+]

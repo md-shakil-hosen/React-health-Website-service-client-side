@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "X-Ray",
+        "description": "Professional medical service of X-Ray technology."
+    },
+    {
+        "id": 2,
+        "img": "http://themetechmount.com/html/delmont/images/services/01.jpg",
+        "name": "Neurology",
+        "description": "Professional medical service of Neurology."
+    },
+    {
+        "id": 3,
+        "img": "http://themetechmount.com/html/delmont/images/services/06.jpg",
+        "name": "Eye Care Services",
+        "description": "Professional medical service of Eye Care ."
+    },
+    {
+        "id": 4,
+        "img": "https://st2.depositphotos.com/3905143/10563/i/950/depositphotos_105634758-stock-photo-doctor-holding-mental-health-sign.jpg",
+        "name": "Mental Health Services",
+        "description": "Professional medical service of Mental Health Service. ."
+    },
+    {
+        "id": 5,
+        "img": "http://themetechmount.com/html/delmont/images/services/05.jpg",
+        "name": "CardioLogy",
+        "description": "Professional medical service of Cardiology.."
+    },
+    {
+        "id": 6,
+        "img": "https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Orthopaedics Services",
+        "description": "Professional medical service of Neurology.."
+    },
+    {
+        "id": 7,
+        "img": "https://images.pexels.com/photos/1250655/pexels-photo-1250655.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Orthopaedics Services",
+        "description": "Professional medical service of Neurology.."
+    },
+    {
+        "id": 8,
+        "img": "https://images.pexels.com/photos/4230620/pexels-photo-4230620.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Emergency Blood ",
+        "description": "Professional medical service of Blood Donation."
+    }
+]

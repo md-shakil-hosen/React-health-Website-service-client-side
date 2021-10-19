@@ -1,0 +1,31 @@
+.doctor-gallery{
+    border: 2px solid #033955;
+    padding: 10px;
+}
+.doctor-gallery:hover{
+    background-color: #033955;
+    transform: scale(0.8);
+    transition: ease-in 2s;
+}
+.section2{
+    background-image: url("http://themetechmount.com/html/delmont/images/bg-image/row-bgimage-4.jpg");
+    height: 300px;
+}
+.section2-hed{
+    color: white;
+}
+.an-app{
+    border: 1px solid #07eeb6;
+    padding: 10px 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color:#07eeb6 ;
+    color: white;
+    margin-bottom: 10px;
+}
+.an-app:hover{
+    border: 1px solid #07eeb6;
+    background-color: white;
+    color: rgb(2, 5, 34);
+    transition: ease-out 2s;
+}

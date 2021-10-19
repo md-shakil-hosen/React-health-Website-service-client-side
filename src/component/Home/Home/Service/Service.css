@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@200;300;400;500;600;700&display=swap');
+
+.primary-btn{
+    border: 1px solid #07eeb6;
+    padding: 10px 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color:#07eeb6 ;
+    color: white;
+    border: none;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+.card-style{
+    font-family: 'Saira Semi Condensed', sans-serif;
+}

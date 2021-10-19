@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@200;300;400;500;600;700&display=swap');
+
+.auth-home{
+  background-image:url('http://themetechmount.com/html/delmont/images/footer-bg.jpg');
+  background-position: center;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  color: rgba(0, 0, 0, 0.678);
+  
+}
+
+.login-container{
+  background: white;
+  text-align: left ;
+  
+  
+}
+
+.input-field:focus{
+  outline: none ;
+  box-shadow: none;
+  border-color: azure;
+}
+
+.forgot-text {
+  cursor: pointer;
+}
+.forgot-text:hover{
+  color: rgb(37, 120, 228);
+  
+}
+
+.login-btn{
+  margin: 20px 0 ;
+  border: none;
+  width: 100%;
+  display: block;
+  padding: 10px;
+  color: white;
+  font-weight: 500;
+  border-radius: 10px;
+  border: 1px solid #07eeb6;
+  background-color: #07eeb6;
+}
+
+.login-btn:hover{
+  background-color: white;
+  border: 1px solid #07eeb6;
+  color: darkslateblue;
+}
+
+.toggleIcon{
+  cursor: pointer;
+}
+
+.img-icon{
+  width: 45px;
+  cursor: pointer;
+  border-radius: 100%;
+  border: 2px solid white;
+  padding: 3px;
+}
+
+
+.icon-parent{
+  display: flex;
+  justify-content: space-evenly;
+  width: 280px;
+  margin: 0 auto;
+}
+

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@200;300;400;500;600;700&display=swap');
+.banner-img{
+    background-image: url(http://themetechmount.com/html/delmont/images/vector_page/vectorpage-banner-01.jpg);
+    background-position: top right;
+    background-size: cover;
+}
+.hero-btn1{
+    border: 1px solid #07eeb6;
+    padding: 17px 30px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color:#07eeb6 ;
+    color: white;
+}
+.hero-btn{
+    border: 1px solid #07eeb6;
+    background-color: white;
+    padding: 17px 30px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    color: #002e3b;
+}
+h1{
+ color: #002e3b;  
+ font-weight: 700; 
+ font-size: 9vh;
+ font-family: 'Saira Semi Condensed', sans-serif;
+ text-align: left;
+}
+span{
+    color: rgb(3, 59, 74);
+    font-size: 15px;
+  text-align: left;
+}
+p{
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgb(157, 171, 175);
+}

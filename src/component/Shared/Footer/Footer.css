@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@200;300;400;500;600;700&display=swap');
+.footerGrid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 7px;
+    text-align: start;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+.bg-custom{
+ background-image: url(http://themetechmount.com/html/delmont/images/footer-bg.jpg);
+}
+.footer-title{
+    color: white;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+.footer-p{
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 15px;
+    font-weight: 400; 
+}
+.quick-link a{
+    text-decoration: none;
+    color: white;
+}
+ ul{
+    list-style: none;
+}
